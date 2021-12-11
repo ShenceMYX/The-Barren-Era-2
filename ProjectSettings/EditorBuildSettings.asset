@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Hologram Room.unity
+    guid: 4f46367a6a18b48888e07dc693140e7e
+  - enabled: 1
+    path: Assets/Scenes/Retro Screen.unity
+    guid: c8d3fc16185bf4aecb2c30f9a1ee2588
   m_configObjects: {}

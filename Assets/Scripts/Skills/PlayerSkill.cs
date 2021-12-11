@@ -1,0 +1,15 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace ns
+{
+	/// <summary>
+	/// 
+	/// </summary>
+	public abstract class PlayerSkill : MonoBehaviour
+	{
+		public abstract void ExecuteSkill(GameObject enemyGO);
+        
+	}
+}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b340139c9e4d054f904d8b452798652, type: 3}
+  m_Name: ES3Defaults
+  m_EditorClassIdentifier: 
+  settings:
+    _location: 0
+    path: SaveFile.es3
+    encryptionType: 0
+    compressionType: 0
+    encryptionPassword: password
+    directory: 0
+    format: 0
+    prettyPrint: 1
+    bufferSize: 2048
+    saveChildren: 1
+    typeChecking: 1
+    safeReflection: 1
+    memberReferenceMode: 0
+    referenceMode: 2
+    serializationDepthLimit: 64
+    assemblyNames:
+    - Opsive.UltimateCharacterController
+    - Assembly-CSharp
+    - MoreMountains.Tools
+    - Aura2_Core
+    - MoreMountains.Feedbacks
+    - MoreMountains.NiceVibrations.Demos
+    - MoreMountains.Feedbacks.PostProcessing
+    - MoreMountains.Feedbacks.MMTools
+    - MoreMountains.NiceVibrations
+    - MoreMountains.NiceVibrations.Haptics
+    - Opsive.UltimateCharacterController.Demo
+    - MoreMountains.Tools.Feedbacks
+    - Opsive.UltimateCharacterController.Editor
+    - MoreMountains.Tools.Editor
+    - Aura2_Editor
+    - Opsive.UltimateCharacterController.Demo.Editor
+    - MoreMountains.Feedbacks.Editor
+    - MoreMountains.NiceVibrations.Editor
+    - MoreMountains.Tools.Feedbacks.Editor
+    showAdvancedSettings: 0
+  addMgrToSceneAutomatically: 0
+  autoUpdateReferences: 1
+  addAllPrefabsToManager: 1
+  logDebugInfo: 0
+  logWarnings: 1
+  logErrors: 1
